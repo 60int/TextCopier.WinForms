@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextCopier", "TextCopier\TextCopier.csproj", "{ECD8E5FB-51BC-44EC-9B8D-A88D6E32C0EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD8E5FB-51BC-44EC-9B8D-A88D6E32C0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD8E5FB-51BC-44EC-9B8D-A88D6E32C0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD8E5FB-51BC-44EC-9B8D-A88D6E32C0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD8E5FB-51BC-44EC-9B8D-A88D6E32C0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C62D421-B7D5-4AEA-94E9-4AEBBC594E03}
+	EndGlobalSection
+EndGlobal
